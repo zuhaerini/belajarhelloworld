@@ -29,4 +29,15 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:layout_marginBottom="8dp"/>
+    
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="With Sprinkles"
+        android:onClick="clickSprinkles"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="With Cherrys"
+        android:onClick="clickCherrys"/>
 </LinearLayout>

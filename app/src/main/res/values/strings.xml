@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string name="mesej">Gomawoyo sudah memilih Cherrys</string>
+    <string name="no_mesej">Gomawoyo sudah tidak memilih Cherrys</string>
 </resources>
